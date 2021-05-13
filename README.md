@@ -1,4 +1,4 @@
-# Kickstarting with Excel
+# Analysis of the Election Audit
 
 ## Overview of Project
 
